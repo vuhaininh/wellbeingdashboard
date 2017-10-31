@@ -1,0 +1,12 @@
+$navbar-base-padding: 0.1rem 1rem;
+$navbar-base-margin: 60px;
+.navbar {
+  padding: $navbar-base-padding;
+}
+.navbar-brand {
+  margin-left: $navbar-base-margin;
+}
+.navbar-logo {
+  height: 40px;
+  width: 130px;
+}
